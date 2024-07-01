@@ -1,0 +1,28 @@
+# Commercial License Information
+
+This software is available under a dual licensing model.
+
+## Open-Source License
+
+This software is licensed under the Apache License 2.0. You may obtain a copy of the License at:
+http://www.apache.org/licenses/LICENSE-2.0
+
+## Commercial License
+
+For use in proprietary software or commercial applications, a commercial license is required. To obtain a commercial license, please contact:
+
+[Your Name or Company]
+[Your Contact Information]
+[Your Email Address]
+[Your Website]
+
+By purchasing a commercial license, you gain access to additional benefits, including but not limited to:
+- Priority support
+- Custom development services
+- Additional features and enhancements
+
+## Contact Information
+
+For inquiries regarding commercial licensing, please contact us at:
+
+[Your Email Address]
