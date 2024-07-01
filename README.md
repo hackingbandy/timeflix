@@ -9,7 +9,7 @@ This project is licensed under the terms of the Apache License 2.0. See the [LIC
 
 ## Commercial License
 
-This project is also available under a commercial license for proprietary use. For more information, please refer to the [DUAL_LICENSE.txt] file or contact us at andy.kdry98@gmail.com.
+This project is also available under a commercial license for proprietary use. For more information, please refer to the [DUAL_LICENSE.txt](DUAL_LICENSE.txt) file or contact us at andy.kdry98@gmail.com.
 
 ## Contact
 
